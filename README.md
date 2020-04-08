@@ -4,7 +4,7 @@ Applying data science to twitter api
 ## Install requirements
 
 ```bash
-pipenv install
+pipenv install ++
 ```
 ## Run MongoDB in docker
 
